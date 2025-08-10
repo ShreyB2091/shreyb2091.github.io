@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - ShreyB2091
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - ShreyB2091/E-Vaidya
+  - ShreyB2091/Operating-Systems
+  - ShreyB2091/CSE-BUBBLE-Processor
+  - chitwang/sssnakelyzer
+  - ShreyB2091/tripsay
