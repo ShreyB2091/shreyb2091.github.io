@@ -78,11 +78,25 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Academic Excellence Award",
+      "date": "2022, 2023",
+      "awarder": "IIT Kanpur",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "KVPY Fellowship",
+      "date": "2020, 2021",
+      "awarder": "Department of Science and Technology (DST), Government of India",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "State Topper, IOQP",
+      "date": "2021",
+      "awarder": "Indian Association of Physics Teachers (IAPT)",
+      "url": "",
+      "summary": ""
     }
   ],
   "certificates": [
@@ -99,7 +113,7 @@
   "skills": [
     {
       "name": "Programming Languages",
-      "level": "Master",
+      "level": "",
       "icon": "fa-solid fa-code",
       "keywords": [
         "C/C++",
@@ -107,6 +121,28 @@
         "JavaScript",
         "SQL",
         "Rust"
+      ]
+    },
+    {
+      "name": "Systems",
+      "level": "",
+      "icon": "fa-solid fa-database",
+      "keywords": [
+        "Linux Kernel",
+        "File Systems",
+        "Distributed Systems",
+        "Systems for AI/ML"
+      ]
+    },
+    {
+      "name": "Tools",
+      "level": "",
+      "icon": "fa-solid fa-file-code",
+      "keywords": [
+        "Latex",
+        "NVBit",
+        "SQLite",
+        "Git"
       ]
     }
   ],
