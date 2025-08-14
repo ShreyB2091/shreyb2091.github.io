@@ -23,6 +23,6 @@ announcements:
 #   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
 #   limit: 3 # leave blank to include all the blog posts
 ---
-I'm an MSCS student at Georgia Tech, having graduated from IIT Kanpur with a B.Tech in Computer Science and Engineering.
+I'm an MS CS student at Georgia Tech, having graduated from IIT Kanpur with a B.Tech in Computer Science and Engineering.
 
-I am interested in Computer Systems, Low-Level Programming and Systems for AI. I am currently working on project [Vajra](https://project-vajra.github.io/), a low-latency distributed LLM inference serving engine.
+I am interested in Computer Systems, Low-Level Programming, Systems for AI/ML, and Code Optimization Techniques. I am currently working on project [Vajra](https://project-vajra.github.io/), a low-latency distributed LLM inference serving engine, and project [Eva DB](https://github.com/georgia-tech-db/evadb), a database system for AI-powered apps.
