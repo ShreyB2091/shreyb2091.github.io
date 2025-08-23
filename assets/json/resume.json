@@ -62,7 +62,7 @@
       "startDate": "2025-08",
       "endDate": "2027-06",
       "score": "/4",
-      "courses": []
+      "courses": ["Systems for ML", "Special Problems in CS"]
     },
     {
       "institution": "Indian Institute of Technology Kanpur",
@@ -131,7 +131,8 @@
         "Linux Kernel",
         "File Systems",
         "Distributed Systems",
-        "Systems for AI/ML"
+        "Systems for AI/ML",
+        "Database Systems"
       ]
     },
     {
