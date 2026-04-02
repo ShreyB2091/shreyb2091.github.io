@@ -73,7 +73,15 @@
       "startDate": "2021-11",
       "endDate": "2025-05",
       "score": "8.9/10",
-      "courses": ["Operating Systems", "Computer Networks", "Linux Kernel Programming", "Parallel Computing", "Compiler Design", "Programming for Performance", "Computer Architecture"]
+      "courses": [
+        "Operating Systems",
+        "Computer Networks",
+        "Linux Kernel Programming",
+        "Parallel Computing",
+        "Compiler Design",
+        "Programming for Performance",
+        "Computer Architecture"
+      ]
     }
   ],
   "awards": [
@@ -99,8 +107,7 @@
       "summary": ""
     }
   ],
-  "certificates": [
-  ],
+  "certificates": [],
   "publications": [
     {
       "name": "Uncertainty-informed volume visualization using implicit neural representation",
@@ -115,36 +122,19 @@
       "name": "Programming Languages",
       "level": "",
       "icon": "fa-solid fa-code",
-      "keywords": [
-        "C/C++",
-        "Python",
-        "JavaScript",
-        "SQL",
-        "Rust"
-      ]
+      "keywords": ["C/C++", "Python", "JavaScript", "SQL", "Rust"]
     },
     {
       "name": "Systems",
       "level": "",
       "icon": "fa-solid fa-database",
-      "keywords": [
-        "Linux Kernel",
-        "File Systems",
-        "Distributed Systems",
-        "Systems for AI/ML",
-        "Database Systems"
-      ]
+      "keywords": ["Linux Kernel", "File Systems", "Distributed Systems", "Systems for AI/ML", "Database Systems"]
     },
     {
       "name": "Tools",
       "level": "",
       "icon": "fa-solid fa-file-code",
-      "keywords": [
-        "Latex",
-        "NVBit",
-        "SQLite",
-        "Git"
-      ]
+      "keywords": ["Latex", "NVBit", "SQLite", "Git"]
     }
   ],
   "languages": [
